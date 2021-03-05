@@ -82,9 +82,9 @@ body {
   text-align: center;
   font-family: "Raleway", sans-serif;
 }
-.button:hover {
-  background-color: blanchedalmond;
-  color: hsl(217, 28%, 15%);
+h5:hover {
+  background-color: rgb(238, 154, 29);
+  color: black;
 }
 .navigationsPanel ul li:hover {
   border-bottom: 2px solid hsl(198, 60%, 50%);
