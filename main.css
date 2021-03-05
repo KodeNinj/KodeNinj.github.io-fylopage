@@ -2,6 +2,7 @@ body {
   font-family: "Open Sans", sans-serif;
   background-color: hsl(218, 28%, 13%);
   position: relative;
+  overflow-x: hidden;
 }
 
 .firstPage {
